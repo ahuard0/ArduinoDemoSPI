@@ -10,9 +10,6 @@
  *
  * The controller will serve as the master device in this demo.
  *
- *    Sending: This is a message.
- *    Receiving: This is a message.
- *
  * Caution: Arduino Yun USB power source is very noisy and interferes with SPI communications.
  * To fix this, power the Yun externally off the +5V bus.  Arduino Uno is noise free and can 
  * serve as the +5V rail for the Arduino Yun
